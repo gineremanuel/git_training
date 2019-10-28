@@ -1,12 +1,9 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
-<<<<<<< HEAD
 Git training
 
 
 still learning about merges
 
-another change
-=======
 another worker here
->>>>>>> 0e9279f29c14f3f46b062d8fec3877f04c223d30
+
